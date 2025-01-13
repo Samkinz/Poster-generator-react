@@ -1,0 +1,36 @@
+.bigLetters-wrapper-background{
+  width: 100%;
+  height: 100%;
+  background-color: rgb(114, 105, 94);
+}
+
+.letter-up-left{
+  position: absolute;
+  font-size: 40em;
+  line-height: 1;
+  top: 0%;
+  left: -5%;
+  
+}
+
+.letter-up-right{
+  position: absolute;
+  top: -80%;
+  left: 2%;
+  color: aliceblue;
+  font-size: 1000%;
+}
+.letter-down-left{
+  position: absolute;
+  top: -80%;
+  left: 2%
+  color: aliceblue;
+  font-size: 1000%;
+}
+.letter-down-right{
+  position: absolute;
+  top: -80%;
+  left: 2%
+  color: aliceblue;
+  font-size: 1000%;
+}

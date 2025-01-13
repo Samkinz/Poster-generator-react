@@ -1,0 +1,19 @@
+.phrase-settings-wrapper{
+  margin-top: 10%;
+}
+
+.phrase-settings-list > li{
+  display: flex;
+  justify-content: space-between;
+  width: 43%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+.phrase-input{
+  width: 43%;
+  height: 40%;
+  text-align: center;
+  font-size: 120%;
+
+}
